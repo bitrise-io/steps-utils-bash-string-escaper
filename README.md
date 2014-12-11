@@ -7,7 +7,7 @@ Useful for escaping another program's input _as a string_ or for
 saving the input content as a value in an environment profile file
 like ~/.bash_profile or ~/.bashrc
 
-The value is meant to be included in quotation marks,
+*The value is meant to be included in quotation marks, the way it's used in the included examples.*
 
 
 ## Examples
